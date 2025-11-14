@@ -1,0 +1,7 @@
+{
+  "name": "Employee Time Clock System",
+  "description": "A comprehensive time clock system for employees to clock in and out with geolocation tracking. Features an admin dashboard with interactive reports, user management, and data visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
